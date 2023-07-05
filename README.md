@@ -20,8 +20,8 @@
 | VT-d | 禁用 | 
 | 大于 4G 地址空间解码 | 启用 | 
 | 快速启动 | 禁用 | 
-| 首选显卡 | Auto | 
+| 首选显卡 | PCIE | 
 | 操作系统类型 | Windows | 
-| 初始化iGPU | 禁用 | 
+| 初始化iGPU | 启用 | 
 | 开启CSM | 禁用 |
 | DVMT Pre-Allocated | 64M | 
